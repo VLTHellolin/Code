@@ -1,0 +1,7 @@
+[package]
+name = "Code"
+[workspace]
+resolver = "2"
+[[bin]]
+name = "playground"
+path = "playground.rs"
