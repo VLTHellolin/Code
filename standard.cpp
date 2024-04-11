@@ -1,9 +1,12 @@
-// Hellolin v4.9.2
+// Hellolin v4.9.3
 
 // clang-format off
 #include <bits/stdc++.h>
 #ifdef LOCAL
 #include "hellolin/all/debug_tools.hpp"
+#endif
+#ifdef ATCODER
+#include "atcoder/all"
 #endif
 using namespace std;
 namespace hellolin {
